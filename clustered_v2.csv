@@ -1,0 +1,230 @@
+age,edu_level,fav_animals,fav_place,Cluster
+<18,Podstawowe,Brak ulubionych,,Cluster 6
+25-34,Średnie,Psy,Nad wodą,Cluster 20
+45-54,Wyższe,Psy,W lesie,Cluster 15
+35-44,Średnie,Koty,W górach,Cluster 19
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+25-34,Wyższe,Psy,W lesie,Cluster 23
+25-34,Wyższe,Koty,W górach,Cluster 3
+25-34,Wyższe,Brak ulubionych,W górach,Cluster 7
+45-54,Wyższe,Psy,W górach,Cluster 22
+18-24,Średnie,Koty,W górach,Cluster 9
+35-44,Wyższe,Brak ulubionych,W górach,Cluster 4
+25-34,Wyższe,Psy,W lesie,Cluster 23
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+35-44,Średnie,Inne,W górach,Cluster 10
+45-54,Wyższe,Inne,Nad wodą,Cluster 11
+35-44,Średnie,Koty,Nad wodą,Cluster 2
+>=65,Wyższe,Brak ulubionych,,Cluster 14
+45-54,Wyższe,Psy,W górach,Cluster 22
+35-44,Wyższe,Koty,,Cluster 19
+45-54,Wyższe,Koty i Psy,Nad wodą,Cluster 8
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+>=65,Wyższe,Brak ulubionych,W lesie,Cluster 14
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Średnie,Psy,Nad wodą,Cluster 2
+45-54,Wyższe,Psy,W lesie,Cluster 15
+35-44,Wyższe,Koty,W górach,Cluster 19
+35-44,Wyższe,Koty,W górach,Cluster 19
+25-34,Wyższe,Koty,W górach,Cluster 3
+25-34,Wyższe,Koty,W górach,Cluster 3
+55-64,Wyższe,Inne,,Cluster 17
+35-44,Średnie,Psy,Nad wodą,Cluster 2
+35-44,Wyższe,Koty,Nad wodą,Cluster 19
+25-34,Średnie,Inne,Inne,Cluster 0
+45-54,Średnie,Koty,Inne,Cluster 21
+25-34,Średnie,Psy,Nad wodą,Cluster 20
+25-34,Średnie,Inne,W górach,Cluster 20
+35-44,Wyższe,Brak ulubionych,Nad wodą,Cluster 4
+45-54,Średnie,Psy,W górach,Cluster 2
+25-34,Wyższe,Psy,W górach,Cluster 7
+45-54,Wyższe,Koty,W lesie,Cluster 5
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Brak ulubionych,W lesie,Cluster 4
+35-44,Średnie,Psy,Nad wodą,Cluster 2
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+45-54,Średnie,Psy,Nad wodą,Cluster 2
+35-44,Wyższe,Inne,W górach,Cluster 10
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+unknown,Wyższe,Brak ulubionych,,Cluster 12
+>=65,Wyższe,Brak ulubionych,W górach,Cluster 14
+45-54,Wyższe,Brak ulubionych,W górach,Cluster 18
+45-54,Wyższe,Inne,W lesie,Cluster 15
+25-34,Wyższe,Psy,Inne,Cluster 21
+18-24,Wyższe,Brak ulubionych,W górach,Cluster 9
+35-44,Wyższe,Psy,W lesie,Cluster 15
+25-34,Średnie,Koty,W lesie,Cluster 20
+55-64,Wyższe,Psy,W górach,Cluster 13
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Psy,W lesie,Cluster 15
+35-44,Wyższe,Inne,Nad wodą,Cluster 10
+45-54,Wyższe,Psy,W górach,Cluster 22
+35-44,Wyższe,Inne,Nad wodą,Cluster 10
+35-44,Średnie,Brak ulubionych,,Cluster 4
+35-44,Wyższe,Koty i Psy,W górach,Cluster 8
+35-44,Wyższe,Koty,W górach,Cluster 19
+>=65,Wyższe,Brak ulubionych,W górach,Cluster 14
+45-54,Wyższe,Inne,Inne,Cluster 0
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+25-34,Wyższe,Psy,Nad wodą,Cluster 7
+35-44,Wyższe,Inne,Nad wodą,Cluster 10
+55-64,Wyższe,Psy,Nad wodą,Cluster 17
+55-64,Wyższe,Psy,Nad wodą,Cluster 17
+45-54,Wyższe,Koty i Psy,,Cluster 8
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Psy,W lesie,Cluster 15
+55-64,Wyższe,Koty i Psy,Nad wodą,Cluster 8
+35-44,Wyższe,Psy,,Cluster 1
+25-34,Wyższe,Psy,W lesie,Cluster 23
+35-44,Wyższe,Psy,,Cluster 1
+25-34,Wyższe,Inne,W górach,Cluster 10
+55-64,Wyższe,Psy,,Cluster 17
+18-24,Średnie,Psy,W górach,Cluster 24
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Wyższe,Psy,,Cluster 11
+35-44,Wyższe,Inne,Inne,Cluster 0
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+35-44,Wyższe,Brak ulubionych,W górach,Cluster 4
+45-54,Średnie,Psy,W górach,Cluster 2
+25-34,Wyższe,Psy,Nad wodą,Cluster 7
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+25-34,Wyższe,Inne,W lesie,Cluster 23
+25-34,Średnie,Psy,W górach,Cluster 20
+45-54,Średnie,Inne,W lesie,Cluster 2
+unknown,Wyższe,Psy,Nad wodą,Cluster 12
+35-44,Wyższe,Psy,W lesie,Cluster 15
+45-54,Wyższe,Psy,W lesie,Cluster 15
+55-64,Wyższe,Psy,W lesie,Cluster 17
+35-44,Średnie,Psy,W lesie,Cluster 2
+35-44,Wyższe,Psy,,Cluster 1
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+35-44,Wyższe,Brak ulubionych,Nad wodą,Cluster 4
+35-44,Wyższe,Brak ulubionych,,Cluster 4
+45-54,Średnie,Inne,Inne,Cluster 0
+45-54,Średnie,Brak ulubionych,W górach,Cluster 18
+55-64,Wyższe,Psy,Nad wodą,Cluster 17
+35-44,Średnie,Psy,W górach,Cluster 2
+35-44,Wyższe,Koty,W górach,Cluster 19
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+25-34,Średnie,Koty,W lesie,Cluster 20
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+35-44,Wyższe,Koty,W górach,Cluster 19
+45-54,Wyższe,Psy,Inne,Cluster 21
+45-54,Wyższe,Psy,W lesie,Cluster 15
+25-34,Wyższe,Koty,,Cluster 3
+45-54,Wyższe,Brak ulubionych,Nad wodą,Cluster 4
+45-54,Wyższe,Inne,W lesie,Cluster 15
+45-54,Wyższe,Psy,W lesie,Cluster 15
+25-34,Wyższe,Psy,W górach,Cluster 7
+45-54,Średnie,Inne,W górach,Cluster 18
+18-24,Średnie,Psy,Nad wodą,Cluster 24
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Wyższe,Psy,W lesie,Cluster 15
+>=65,Wyższe,Psy,Nad wodą,Cluster 14
+35-44,Wyższe,Koty,W górach,Cluster 19
+35-44,Wyższe,Psy,Inne,Cluster 21
+45-54,Wyższe,Psy,,Cluster 11
+45-54,Wyższe,Inne,Nad wodą,Cluster 11
+35-44,Wyższe,Brak ulubionych,W lesie,Cluster 4
+18-24,Średnie,Psy,W górach,Cluster 24
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Wyższe,Koty,W lesie,Cluster 5
+35-44,Wyższe,Inne,W górach,Cluster 10
+55-64,Wyższe,Psy,Nad wodą,Cluster 17
+35-44,Wyższe,Koty,W górach,Cluster 19
+35-44,Wyższe,Psy,W górach,Cluster 16
+45-54,Wyższe,Psy,W lesie,Cluster 15
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+18-24,Średnie,Inne,W górach,Cluster 9
+45-54,Średnie,Koty,W lesie,Cluster 5
+25-34,Wyższe,Psy,,Cluster 7
+45-54,Wyższe,Inne,W górach,Cluster 10
+35-44,Średnie,Koty,W górach,Cluster 19
+45-54,Wyższe,Psy,W lesie,Cluster 15
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+25-34,Wyższe,Psy,W lesie,Cluster 23
+25-34,Wyższe,Psy,Nad wodą,Cluster 7
+45-54,Wyższe,Koty,,Cluster 5
+35-44,Wyższe,Brak ulubionych,Nad wodą,Cluster 4
+35-44,Średnie,Psy,W lesie,Cluster 2
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Wyższe,Inne,W górach,Cluster 10
+25-34,Wyższe,Koty,,Cluster 3
+25-34,Wyższe,Psy,Nad wodą,Cluster 7
+25-34,Średnie,Psy,W górach,Cluster 20
+55-64,Wyższe,Inne,,Cluster 17
+55-64,Wyższe,Koty,Nad wodą,Cluster 17
+35-44,Wyższe,Koty i Psy,W górach,Cluster 8
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+25-34,Wyższe,Psy,W górach,Cluster 7
+45-54,Wyższe,Brak ulubionych,W lesie,Cluster 15
+18-24,Średnie,Koty,W górach,Cluster 9
+25-34,Wyższe,Psy,W górach,Cluster 7
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+25-34,Średnie,Koty,,Cluster 20
+25-34,Wyższe,Psy,W górach,Cluster 7
+35-44,Wyższe,Psy,W górach,Cluster 16
+45-54,Wyższe,Koty,W lesie,Cluster 5
+35-44,Wyższe,Psy,W górach,Cluster 16
+25-34,Średnie,Brak ulubionych,W górach,Cluster 18
+45-54,Wyższe,Koty,W lesie,Cluster 5
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+18-24,Średnie,Koty,W lesie,Cluster 9
+55-64,Wyższe,Psy,W lesie,Cluster 17
+45-54,Wyższe,Psy,W górach,Cluster 22
+45-54,Wyższe,Psy,W górach,Cluster 22
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+55-64,Wyższe,Brak ulubionych,W lesie,Cluster 17
+35-44,Średnie,Inne,Nad wodą,Cluster 2
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Inne,W górach,Cluster 10
+25-34,Wyższe,Inne,W lesie,Cluster 23
+45-54,Średnie,Koty,,Cluster 2
+45-54,Wyższe,Koty,W górach,Cluster 19
+25-34,Wyższe,Psy,W lesie,Cluster 23
+45-54,Wyższe,Koty,,Cluster 5
+18-24,Wyższe,Inne,,Cluster 24
+45-54,Wyższe,Psy,,Cluster 11
+35-44,Średnie,Psy,Nad wodą,Cluster 2
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Inne,Nad wodą,Cluster 10
+45-54,Wyższe,Koty,Nad wodą,Cluster 5
+35-44,Wyższe,Psy,W górach,Cluster 16
+35-44,Wyższe,Psy,W lesie,Cluster 15
+55-64,Wyższe,Koty,W lesie,Cluster 17
+>=65,Wyższe,Psy,Nad wodą,Cluster 14
+35-44,Wyższe,Koty,Nad wodą,Cluster 19
+35-44,Wyższe,Psy,,Cluster 1
+35-44,Wyższe,Psy,W lesie,Cluster 15
+45-54,Wyższe,Psy,W górach,Cluster 22
+18-24,Średnie,Psy,Nad wodą,Cluster 24
+45-54,Średnie,Psy,Nad wodą,Cluster 2
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Średnie,Brak ulubionych,W górach,Cluster 18
+>=65,Średnie,Psy,,Cluster 14
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+45-54,Wyższe,Psy,W górach,Cluster 22
+35-44,Wyższe,Brak ulubionych,Nad wodą,Cluster 4
+45-54,Wyższe,Psy,W lesie,Cluster 15
+45-54,Wyższe,Psy,,Cluster 11
+45-54,Wyższe,Koty i Psy,Nad wodą,Cluster 8
+45-54,Wyższe,Koty,W górach,Cluster 19
+45-54,Wyższe,Psy,W lesie,Cluster 15
+45-54,Wyższe,Psy,Nad wodą,Cluster 11
+35-44,Wyższe,Psy,Nad wodą,Cluster 1
+45-54,Wyższe,Inne,Nad wodą,Cluster 11
+45-54,Wyższe,Psy,W górach,Cluster 22
+55-64,Wyższe,Inne,,Cluster 17
+45-54,Wyższe,Psy,W górach,Cluster 22
+25-34,Wyższe,Koty,Nad wodą,Cluster 3
+45-54,Wyższe,Psy,W górach,Cluster 22
+35-44,Wyższe,Inne,,Cluster 10
+35-44,Wyższe,Koty,Inne,Cluster 21
+45-54,Wyższe,Inne,W lesie,Cluster 15
+25-34,Wyższe,Psy,W górach,Cluster 7
+35-44,Wyższe,Brak ulubionych,W górach,Cluster 4
+45-54,Wyższe,Koty,Nad wodą,Cluster 5

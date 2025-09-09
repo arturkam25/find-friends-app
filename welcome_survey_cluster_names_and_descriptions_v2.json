@@ -1,0 +1,102 @@
+{
+    "0": {
+        "name": "Typ 0 Inne w inne, tutaj zostało coś do odkrycia!",
+        "description": "Cześć! Jeśli trafiłeś do tej grupy, to wiesz, że wszystko da się tak łatwo zaszufladkować. Tu jest balans, harmonia ale jest i… lekka zagadka. Dwie kobiety, dwóch mężczyzn, pół na pół w wyborach, a mimo to czuć, że pod spodem kryje się coś więcej. To takie „Inne w Inne”, gdzie zawsze zostaje jeszcze coś do odkrycia. Może właśnie Ty będziesz tym, kto rozbije nudę i pokaże reszcie, że równowaga to dopiero początek przygody?"
+    },
+    "1": {
+        "name": "Typ 1 Psy w nad wodą, zaproszenie na piknik z labradorem nad jeziorem!",
+        "description": "Tutaj poprzeczka jest dość wysoko, rządzą kobiety z wyższym wykształceniem, więc poziom rozmów może być równie wysoki jak temperatura wody w sierpniu. Jest pole do popisu, bądź kreatyny(a) trzy panie i jeden pan jeszcze nie zdecydowali, które miejsce jest ich ulubione. Ale w sumie… wychodzi na to, że nie ważne gdzie, byle z psem i z uśmiechem!"
+    },
+    "2": {
+        "name": "Typ 2 Z maturą czy bez, ale na pewno aktywnie",
+        "description": "To grono dorosłych i statecznych, wszyscy w wieku „poborowym”, czyli 35–54 lata, ze średnim wykształceniem. Idealny zestaw: i do tańca, i do różańca. Dominują psiarze, ale dwie kociary i para fanów innych futrzaków dbają o różnorodność. A gdzie ich spotkasz? Nad wodą, w lesie, w górach… a czasem w miejscach, których jeszcze sami nie potrafią nazwać. Jednym słowem: ważne, żeby było na świeżym powietrzu, tam czują się najlepiej!"
+    },
+    "3": {
+        "name": "Typ 3 Młodzi kociarze górscy, takie pantery śnieżne (irbisy)",
+        "description": "Jeśli tu jesteś, to twoja grupa jest grupą młodych, ambitnych i dobrze wykształconych osób, które lubią góry i wyzwania, szczególnie panie, bo one najchętniej wybierają szlaki pod górę. Panowie są bardziej eksperymentalni: jeden w górach, drugi nad wodą, trzeci w „innych” klimatach. No cóż, nie każdy futrzak musi być domowy… czasem trzeba mieć w sobie trochę dzikiej natury, żeby wspinać się wyżej niż inni!"
+    },
+    "4": {
+        "name": "Typ 4 Zapracowani, weekendowi zielono-azylowcy",
+        "description": "Jeśli tu jesteś, to twoja grupa to ludzie w kwiecie wieku (35–44 lata), dobrze wykształceni i mocno zajęci, najbardziej szczęśliwi wtedy, gdy mogą wyrwać się na łono natury. Zwierząt nie trzymają, pewnie dlatego, że brakuje im czasu na opiekę nad czworonogiem. Ale gdy przychodzi weekend, wszystko się zmienia: las, góry czy jezioro stają się ich zielonym azylem, w którym ładują baterie przed kolejnym pracowitym tygodniem!"
+    },
+    "5": {
+        "name": "Typ 5 Do lasu kocimi ścieżkami",
+        "description": "Cześć! Jeśli tu jesteś, to twoja grupa to dojrzali i wykształceni miłośnicy kotów, którzy najlepiej odpoczywają na spacerach, czy to leśnymi duktami, czy nad brzegiem rzeki. Czasem mówi się, że to samotni wędrowcy, choć to raczej stereotyp niż fakt. Jedno jest pewne: wasze drogi prowadzą kocimi ścieżkami prosto do natury, gdzie cisza i spokój są najlepszym towarzystwem."
+    },
+    "6": {
+        "name": "Typ 6 Jednoosobowy eksperyment",
+        "description": "Witaj! Jeśli tu trafiłeś, to znaczy, że twoja grupa to… jedna młoda kobieta. Jej wykształcenie jest jeszcze podstawowe, a upodobania nie do końca określone, w końcu wszystko przed nią. Jeśli jesteś chłopakiem, to kto wie, może właśnie znalazłeś potencjalną partnerkę życiową. A jeśli jesteś dziewczyną, to trafiłaś na idealną towarzyszkę do zakupów, rozmów i wspólnego odkrywania świata."
+    },
+    "7": {
+        "name": "Typ 7 Młodzi, wykształceni, aktywni i z psem",
+        "description": "Cześć! Jeśli tu jesteś, to znaczy, że trafiłeś do grupy młodych i wykształconych osób, które nie potrafią usiedzieć w miejscu. Z lekką przewagą panów, ale panie też tu świetnie się odnajdują. Wasze życie to aktywność w górach, nad wodą, zawsze w ruchu. A najlepiej jeszcze z wiernym czworonogiem przy nodze. To ekipa, która wie, że przygoda zaczyna się tam, gdzie kończy się wygodna kanapa."
+    },
+    "8": {
+        "name": "Typ 8 Wykształceni łamacze stereotypów",
+        "description": "Witaj! Choć wasza grupa nie jest liczna, to nadrabiacie różnorodnością i energią. Rozpiętość wiekowa spora, ale łączy was wykształcenie i ogromne serce, zarówno do kotów, jak i do psów. Zero stereotypów, zero podziałów: tutaj każdy znajdzie swoje miejsce. A że wszyscy jesteście aktywni ruchowo, to spokojnie możecie wspólnie zdobywać szczyty, przebiegać parki czy spacerować z futrzakami. To mała, ale wyjątkowo zgrana drużyna."
+    },
+    "9": {
+        "name": "Typ 9 Młodzi wilcy na start",
+        "description": "Cześć! Tutaj rządzą młodzi mężczyźni, którzy dopiero zaczynają zawodową drogę, wciąż uczą się i budują fundamenty swojej przyszłości. Pochłonięci planami i ambicjami, nie mogą sobie pozwolić na większe futrzane zobowiązania niż kot, który zapewnia im chwilę relaksu. Wolny czas spędzają aktywnie, czy to biegając po lesie, czy próbując sił we wspinaczce. To grupa, która wie, że żeby wspiąć się wysoko, trzeba zacząć od solidnego startu. A jeśli jesteś kobietą i trafiłaś na tę grupę… cóż, materiałów na męża tutaj nie brakuje!"
+    },
+    "10": {
+        "name": "Typ 10 Aktywne amazonki (i nie tylko)",
+        "description": "W tej grupie panie mają zdecydowaną przewagę, jest ich dwa razy więcej niż panów. Wiek? Od młodych do dojrzałych pełna rozpiętość, ale niemal wszystkich łączy wyższe wykształcenie i chęć do działania. Zamiast siedzieć przed telewizorem, wolą aktywność i to w bardzo różnych formach. Zwierzaki, którz to może wiedzieć: konie, może rybki akwariowe, a może jeszcze coś innego, jedno jest pewne: w tym klastrze trudno znaleźć kogoś, kto nie ma pasji. To ekipa, która zamiast pilota do TV woli mieć w ręku mapę szlaków."
+    },
+    "11": {
+        "name": "Typ 11 Stabilizacja z psem i niedzielnym obiadem",
+        "description": "Cześć! Jeśli tu jesteś, to twoja grupa to ustatkowani i wykształceni rodzice, których dzieci już dawno wyfrunęły z gniazda. Został pies wierny kompan spacerów i rzeka, która widziała niejedną waszą rozmowę. Dla niektórych to może brzmieć jak nuda, ale to raczej piękna stabilizacja: spokój, codzienny rytm i czworonożny przyjaciel. A w niedzielę? Dzieci wpadają na obiad wiadomo u rodziców smakuje najlepiej.."
+    },
+    "12": {
+        "name": "Typ 12 Tajemniczy wiecznie młodzi",
+        "description": "Witaj! Jeśli tu jesteś, to trafiłeś do jednej z większych zagadek tej ankiety. Grupa składa się wyłącznie z panów i to takich, którzy postanowili ukryć swój wiek. Dlaczego? Któż to wie. Zawsze myśleliśmy, że to domena kobiet, a tu niespodzianka! Na dodatek mówimy o mężczyznach wykształconych, więc pewnie mają na to swoje logiczne wytłumaczenie. A może po prostu chcą zostać „wiecznie młodymi” i już."
+    },
+    "13": {
+        "name": "Typ 13 Jedna, ale wyjątkowa",
+        "description": "Hej! Ta grupa to absolutny unikat, tworzy ją dojrzała, wykształcona i w pełni świadoma kobieta, która dokładnie wie, czego chce i co lubi. Jest odważna w końcu w jej wieku wybiera góry zamiast fotela przed telewizorem i wierna swojemu psu, który towarzyszy jej w wędrówkach. Jeśli jesteś mężczyzną, być może właśnie znalazłeś idealną towarzyszkę długich zimowych wieczorów. A jeśli jesteś kobietą to masz koleżankę na gorące ploteczki i rozmowy bez końca. Jedno jest pewne: w tym klastrze nie ma miejsca na przypadkowość tu rządzi pewność siebie.."
+    },
+    "14": {
+        "name": "Typ 14 Aktywne seniorki (i nie tylko)",
+        "description": "Witaj! Jeśli tu jesteś, to twoja grupa to osoby w wieku emerytalnym wykształcone, świadome i nadal pełne energii. Zdecydowaną przewagę mają tu panie, ale cóż… statystycznie żyją dłużej. Zwierzęta? Nie ma tu wyraźnych faworytów, choć sympatię zdobywają te z merdającym ogonem. To ekipa, która udowadnia, że wiek emerytalny może oznaczać wolność, ruch i radość zamiast nudy."
+    },
+    "15": {
+        "name": "Typ 15 Leśni biegacze z czworonogami",
+        "description": "Twoja grupa to dość liczne grono ludzi w kwiecie wieku, wykształconych i pełnych energii. Tym razem panowie mają prawie dwukrotną przewagę i widać, że dobrze się w tym odnajdują. Najczęściej wybieracie psy jako towarzyszy i razem z nimi przemierzacie leśne ścieżki, biegając, spacerując czy po prostu ładując baterie. To grupa, która udowadnia, że ruch na świeżym powietrzu i merdający ogon obok to najlepszy sposób na codzienną dawkę radości."
+    },
+    "16": {
+        "name": "Typ 16 Drużyna marzeń biegająca z psami po górach",
+        "description": "Cześć! Jeśli tu jesteś, to twoja grupa to statystyczny majstersztyk, perfekcyjny rozkład 5 na 5, chłopcy kontra dziewczynki. Równowaga, harmonia i pełen skład jak w drużynie koszykarskiej. Z tą różnicą, że wasze boisko to górskie szlaki, a zamiast piłki towarzyszą wam psy. To prawdziwa drużyna marzeń razem w biegu, razem na szczytach i zawsze z merdającym ogonem u boku."
+    },
+    "17": {
+        "name": "Typ 17 Normalność w najlepszym wydaniu",
+        "description": "Witaj! Jeśli tu jesteś, to twoja grupa to ustatkowani, wykształceni dorośli, którzy znaleźli złoty środek między pracą a odpoczynkiem. Pewnie część z was to działkowicze, inni wolą spacery nad wodą czy w lesie byle wśród natury. Zwierzęta? Psy, koty, a czasem coś jeszcze innego po prostu normalne towarzystwo do normalnego życia. Może nie ma tu fajerwerków, ale jest stabilność, spokój i zwyczajna radość z codzienności. A przecież właśnie w tej normalności kryje się prawdziwa magia."
+    },
+    "18": {
+        "name": "Typ 18 Technicy na szlaku",
+        "description": "Jeśli tu jesteś, to twoja grupa to niewielka ekipa głównie panowie z jedną kobietą w składzie. Zamiast zwierząt wybraliście góry, bo to one najlepiej pasują do waszego temperamentu. Wykształcenie średnie? Brzmi jak solidni technicy, którzy wiedzą, jak działa świat i wolą zdobywać kolejne szczyty niż zajmować się futrzakami. To praktyczni ludzie na górskim szlaku krok po kroku, konsekwentnie i z planem."
+    },
+    "19": {
+        "name": "Typ 19 Świadomi kociarze na szlaku",
+        "description": "Jeśli tu jesteś, to twoja grupa to wykształceni dorośli, którzy z pełnym przekonaniem wybrali koci styl życia. To świadomy wybór, mruczenie zamiast szczekania, elegancja zamiast chaosu. Góry są waszym azylem, a czasem zdarzy się górski potok, który dodaje przygodzie świeżości. Ciekawe tylko, czy wasze dachowce ruszyłyby z wami na szlak… czy jednak wolą czekać cierpliwie na parapecie, obserwując wasze powroty z wysokości."
+    },
+    "20": {
+        "name": "Typ 20 Młodzi naturalsi",
+        "description": "Twoja grupa to młodzi ludzie ze średnim wykształceniem, którzy wiedzą, jak cieszyć się wolnym czasem. Psy czy koty bez znaczenia, bo liczy się to, że zawsze jest ktoś do towarzystwa. Panowie chętniej wybierają wodę, panie wolą piękne widoki górskich dolin. Ale jedno was łączy na sto procent: wolny czas spędzony na łonie natury w lesie, nad wodą czy w górach. To wasza recepta na życie w dobrym rytmie."
+    },
+    "21": {
+        "name": "Typ 21 Mała, ale różnorodna",
+        "description": "Jeśli tu jesteś, to twoja grupa może i nie należy do największych, ale za to jest naprawdę zróżnicowana. Różne pokolenia, różne poziomy wykształcenia, a do tego podział na kociarzy i psiarzy pełen przekrój. Jedno, czego jeszcze nie sprecyzowaliście, to sposób spędzania wolnego czasu. Ale może to właśnie plus? Bo skoro każdy ma inne podejście, to zawsze znajdzie się ktoś, kto zaproponuje coś nowego. Tu różnorodność to największa siła."
+    },
+    "22": {
+        "name": "Typ 22 Perfekcyjna dziesiątka z psem",
+        "description": "Witaj! Jeśli tu jesteś, to twoja grupa to statystyczny ideał pięciu panów i pięć pań, równa liczba i pełna harmonia. Wszyscy zgodni co do joty, więc tutaj nie ma miejsca na spory czy rozbieżności. To jak dobrze zgrana orkiestra, w której każdy zna swoje miejsce i razem tworzy perfekcyjną melodię. Krótko mówiąc: drużyna kompletna i wzorcowa."
+    },
+    "23": {
+        "name": "Typ 23 Grzybiarze z czworonogami",
+        "description": "Cześć! Jeśli tu jesteś, to twoja grupa to młodzi, wykształceni ludzie w większości panowie, choć nie sami. Waszą pasją jest grzybobranie, czyli klasyczne połączenie przyjemnego z pożytecznym. Wy zbieracie dorodne prawdziwki i podgrzybki, a wasze czworonogi w tym czasie robią swoje kilometry, ciesząc się leśnymi przygodami. Wiedza i rozsądek sprawiają, że doskonale wiecie, co robicie i w koszyku, i na spacerze."
+    },
+    "24": {
+        "name": "Typ 24 Start w dorosłość z psem u boku",
+        "description": "Twoja grupa to niewielkie grono młodych ludzi dopiero rozpoczynających swoją drogę. Być może mieszkacie jeszcze z rodzicami w końcu posiadanie psa to zwykle znak, że nie jest się całkiem samemu. Wolny czas spędzacie aktywnie, najczęściej w ruchu, bo energia aż w was kipi. To dopiero początek przygody ale z takim startem i czworonogiem obok możecie zdobywać świat krok po kroku."
+    }
+}
